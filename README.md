@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ansh Mishra  
 
-🌟 19 y/o | 🎓 Computer Engineering Student at SLRTCE | 💻 MERN Stack Developer & AI Enthusiast  
+🌟 20 y/o | 🎓 Computer Engineering Student at SLRTCE | 💻 MERN Stack Developer & AI Enthusiast  
 
 ---
 
