@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ansh Mishra  
 
-<!--
-**Ansh3721/Ansh3721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 19 y/o | 🎓 Computer Engineering Student at SLRTCE | 💻 MERN Stack Developer & AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on **AI Agents & Web Development**
+- 🌱 Learning and exploring **Open Source & Hackathons**
+- 💡 Passionate about **AI, Web Technologies, and Open Source**
+- 🎯 Goal: To build impactful tech solutions for real-world problems
+
+---
+
+## 🛠️ Tech Stack
+**Languages**  
+- C, Java, Python, JavaScript  
+
+**Web Development**  
+- HTML, CSS, React.js, Node.js, Express.js, MongoDB, SQL  
+
+**Tools & Platforms**  
+- Git/GitHub, Render, VS Code, Linux  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: [anshmishra3721@gmail.com](mailto:anshmishra3721@gmail.com)  
+- 📱 Mobile: +91 7977280168  
+- 💼 LinkedIn: [linkedin.com/in/ansh-mishra](https://linkedin.com/in/ansh-mishra)  
+- 🐙 GitHub: [github.com/AnshMishra](https://github.com/AnshMishra)  
+
+---
+
+⭐️ From [Ansh Mishra](https://github.com/AnshMishra)
